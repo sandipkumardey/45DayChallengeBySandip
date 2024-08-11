@@ -1,1 +1,24 @@
-Coming soon...
+// Coming soon...
+
+### Week 1
+
+- **CP Question: Longest Common Prefix of Strings**
+
+    Given an array of strings, return the longest common prefix among all strings present in the array. If there's no common prefix, return "-1".
+    
+    **Example 1:**
+    
+    - Input: arr[] = ["geeksforgeeks", "geeks", "geek", "geezer"]
+    - Output: "gee"
+    - Explanation: The longest common prefix is "gee" as it is the common starting substring in all the given strings.
+    
+    **Example 2:**
+    
+    - Input: arr[] = ["hello", "world"]
+    - Output: "-1"
+    - Explanation: There is no common prefix among the given strings.
+    
+- **Coding Challenge:**
+    - Calculate the sum of the digits of a given number.
+    - Determine if a given year is a leap year.
+    - Convert temperatures between Celsius and Fahrenheit.
