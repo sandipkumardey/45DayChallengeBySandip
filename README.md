@@ -4,13 +4,13 @@ Welcome to the #45DayChallengeBySandip! This exciting challenge is designed to b
 
 ## Table of Contents
 
-- [Challenge Overview](#challenge-overview)
-- [Rules](#rules)
-- [Roadmaps](#roadmaps)
+- [Challenge Overview](#-challenge-overview)
+- [Rules](#-rules)
+- [Roadmaps](#-roadmaps)
   - [Frontend Development](#frontend-development)
   - [Backend Development](#backend-development)
   - [Design](#design)
-- [Weekly Breakdown](#weekly-breakdown)
+- [Weekly Breakdown](#-weekly-breakdown)
   - [Week 1](#week-1)
   - [Week 2](#week-2)
   - [Week 3](#week-3)
