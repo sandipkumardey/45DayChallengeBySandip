@@ -6,6 +6,10 @@ Welcome to the #45DayChallengeBySandip! This exciting challenge is designed to b
 
 - [Challenge Overview](#-challenge-overview)
 - [Rules](#-rules)
+- [Roadmaps](#-roadmaps)
+  - [Frontend Development](#frontend-development)
+  - [Backend Development](#backend-development)
+  - [Design](#design)
 - [Weekly Breakdown](#-weekly-breakdown)
   - [Week 1](#week-1)
   - [Week 2](#week-2)
@@ -37,6 +41,12 @@ Participants must:
 - **Follow the Roadmap**: Stick to the selected vertical's roadmap and tech stack.
 - **Weekly Contributions**: Contribute to the club in various forms (physical, written, code, graphics, video, marketing, etc.) – total 6 contributions.
 - **Teacher-Assigned Weekly CP Questions**
+
+## 📚 Roadmaps
+
+- **Frontend Development**: [Frontend Roadmap](https://roadmap.sh/frontend)
+- **Backend Development**: [Backend Roadmap](https://roadmap.sh/backend)
+- **Design**: [Design Roadmap](https://roadmap.sh/ux-design)
 
 ## 🗓️ Weekly Breakdown
 
