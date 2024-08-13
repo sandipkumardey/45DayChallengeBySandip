@@ -93,9 +93,32 @@ Participants must:
 ## 📚 Resources
 
 ### **Front-end Development**
-- Basics of HTML, CSS, JavaScript
-- Frameworks like React, Vue, or Angular
-- Responsive design and performance optimization
+#### DSA and CP
+
+- [Striver A2Z SDE Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+- [Striver CP Sheet](https://takeuforward.org/interview-experience/strivers-cp-sheet/)
+- [Neetcode 150](https://neetcode.io/practice)
+
+#### Mobile App Development
+
+- **Expo CLI:** [Documentation](https://docs.expo.dev/)
+- **React-Native CLI:** [Documentation](https://reactnative.dev/docs)
+- **Learn React Native on YouTube:** [Playlist](https://youtube.com/playlist?list=PLS7Hqqjkitat6wd-VNloee_m6u2bfl3ld&si=2tHEJ9xDO1AtwMCC)
+
+#### Web Development
+
+- **HTML:** [YouTube Playlist](https://youtube.com/playlist?list=PLu71SKxNbfoDBNF5s-WH6aLbthSEIMhMI&si=GWvbk1SVE9riRhRi)
+- **CSS:** [YouTube Playlist](https://youtube.com/playlist?list=PLhzIaPMgkbxBk9-drEC0MBPqEOXpVlwY4&si=RDqEKjgVTRfD-Kmh)
+- **JavaScript:** [YouTube Playlist](https://youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&si=9pnyOARIhgqkCVLN)
+- **React JS:** [YouTube Playlist](https://youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&si=uMpvsGn7J0Cnrm7_)
+- **Node JS:** [YouTube Playlist](https://youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo&si=qfZZMo-I-RLxIquy)
+- **Node JS and Backend:** [YouTube Video](https://youtu.be/Oe421EPjeBE?si=Ampix8oEGj9-s-iB)
+
+#### UI Libraries
+
+- **Acertnity UI:** [Website](https://ui.aceternity.com/)
+- **Material UI:** [Website](https://mui.com/material-ui/)
+- **Chakra UI:** [Website](https://v2.chakra-ui.com/)
 
 ### **Back-end Development**
 - Server-side programming (Node.js, Python, Java)
