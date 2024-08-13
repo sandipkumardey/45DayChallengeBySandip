@@ -2,6 +2,13 @@
 
 Welcome to the #45DayChallengeBySandip! This exciting challenge is designed to boost your skills in Front-end Development, Back-end Development, and Design. Get ready to dive deep, build projects, and collaborate with peers in a dynamic learning environment. 🎉
 
+## Contributors
+
+[Vinay Kumar Kajjapu](https://www.linkedin.com/in/vinaykumar-kajjapu/),
+[Aditya Chaurasia](https://www.linkedin.com/in/aditya-chaurasia-187490224/),
+[Baibhab Adhikari](https://www.linkedin.com/in/baibhab-adhikari-3380bb297/),
+[Ankita Bhatt](https://www.linkedin.com/in/ankita-bhatt-56891a156/)
+
 ## Table of Contents
 
 - [Challenge Overview](#-challenge-overview)
