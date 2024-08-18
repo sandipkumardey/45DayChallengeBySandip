@@ -2,6 +2,8 @@
 
 Welcome to the #45DayChallengeBySandip! This exciting challenge is designed to boost your skills in Front-end Development, Back-end Development, and Design. Get ready to dive deep, build projects, and collaborate with peers in a dynamic learning environment. 🎉
 
+![#45DayChallengeBySandip-2](https://github.com/user-attachments/assets/6ff6201e-0a3a-4f75-9721-9af385033170)
+
 ## Contributors
 
 - [Soumyadip Chowdhury](https://www.linkedin.com/in/soumyadip-chowdhury/) - Sr. Software Engineer @ REDHAT
