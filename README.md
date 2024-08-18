@@ -47,6 +47,7 @@ Welcome to the #45DayChallengeBySandip! This exciting challenge is designed to b
 ## 📝 Rules
 
 Participants must:
+- **Star this Repository**
 - **Maintain the Streak**: Throughout the 45 days, document your journey on any platform (LinkedIn, Twitter, or Instagram) tag [Sandip's Profile](https://www.linkedin.com/in/sandipkumardey/), and use [#45DayChallengeBySandip](https://www.linkedin.com/in/sandipkumardey/) in every post you make from now on during this challenge. 
 - **Weekly CP Questions and Projects**: Complete the assigned tasks, finish the 1st project rapidly in a week, present the 2nd on hackathon day, and build the final project live.
 - **Follow the Roadmap**: Stick to the selected vertical's roadmap and tech stack.
