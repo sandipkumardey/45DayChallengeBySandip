@@ -53,6 +53,11 @@ Participants must:
 - **Weekly Contributions**: Contribute to the club in various forms (physical, written, code, graphics, video, marketing, etc.) – total 6 contributions.
 - **Teacher-Assigned Weekly CP Questions**
 
+Follow me here- [![LinkedIn](https://github.com/user-attachments/assets/ab8f3fb3-869b-4089-8810-aabc13a61bbf)](https://www.linkedin.com/in/sandipkumardey/)
+[![Twitter](https://github.com/user-attachments/assets/412de6c1-a6f7-41b2-a2eb-008175c5f850)](https://x.com/sandipkmrdey)
+[![Instagram](https://github.com/user-attachments/assets/a7c2fec3-862b-4a17-8962-4ce1f40e1093)](https://instagram.com/sandipkmrdey)
+[![YouTube](https://github.com/user-attachments/assets/e305d811-964a-4680-9a75-b786162992be)](https://www.youtube.com/@sandipkmrdey)
+
 ## 📚 Roadmaps
 
 - **Frontend Development**: [Frontend Roadmap](https://roadmap.sh/frontend)
