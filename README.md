@@ -38,7 +38,7 @@ Welcome to the #45DayChallengeBySandip! This exciting challenge is designed to b
 ### **Duration**: 45 days  
 ### **Structure**:
 - **3 Projects**: Weekly (2+1)
-- **Weekly Contributions for Club**: (any 2)
+- **Weekly Contributions for Club**: (total 6 contributions)
 - **Final Project Showcase**: On the day of the Hackathon
 - **Vertical Selection**: Choose a particular vertical (only 1)
 - **Tech Stack Selection**: Choose a tech stack (only 1)
@@ -47,7 +47,7 @@ Welcome to the #45DayChallengeBySandip! This exciting challenge is designed to b
 ## 📝 Rules
 
 Participants must:
-- **Maintain the Streak**: Throughout the 45 days, document your journey on any platform (LinkedIn, Twitter, or Instagram) and tag us.
+- **Maintain the Streak**: Throughout the 45 days, document your journey on any platform (LinkedIn, Twitter, or Instagram) tag [Sandip's Profile](https://www.linkedin.com/in/sandipkumardey/), and use [#45DayChallengeBySandip](https://www.linkedin.com/in/sandipkumardey/) in every post you make from now on during this challenge. 
 - **Weekly CP Questions and Projects**: Complete the assigned tasks, finish the 1st project rapidly in a week, present the 2nd on hackathon day, and build the final project live.
 - **Follow the Roadmap**: Stick to the selected vertical's roadmap and tech stack.
 - **Weekly Contributions**: Contribute to the club in various forms (physical, written, code, graphics, video, marketing, etc.) – total 6 contributions.
