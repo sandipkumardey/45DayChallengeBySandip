@@ -4,10 +4,14 @@ Welcome to the #45DayChallengeBySandip! This exciting challenge is designed to b
 
 ## Contributors
 
-[Vinay Kumar Kajjapu](https://www.linkedin.com/in/vinaykumar-kajjapu/),
-[Aditya Chaurasia](https://www.linkedin.com/in/aditya-chaurasia-187490224/),
-[Baibhab Adhikari](https://www.linkedin.com/in/baibhab-adhikari-3380bb297/),
-[Ankita Bhatt](https://www.linkedin.com/in/ankita-bhatt-56891a156/)
+- [Soumyadip Chowdhury](https://www.linkedin.com/in/soumyadip-chowdhury/) - Sr. Software Engineer @ REDHAT
+- [Ankita Bhatt](https://www.linkedin.com/in/ankita-bhatt-56891a156/) - Sr. Software Engineer @ Wipro
+- [Sarnavo Saha Sardar](https://www.linkedin.com/in/sarnavo/) - Smart Contract Developer
+- [Harsh Agarwal](https://www.linkedin.com/in/harsh-agarwal-tech/) - SWE-1 @ Unizap
+- [Aditya Chaurasia](https://www.linkedin.com/in/aditya-chaurasia-187490224/) - Student
+- [Baibhab Adhikari](https://www.linkedin.com/in/baibhab-adhikari-3380bb297/) - Student
+- [Debopam Chowdhury (Param)](https://www.linkedin.com/in/debopam-chowdhury-param-600619229/) - Student
+- [Vinay Kumar Kajjapu](https://www.linkedin.com/in/vinaykumar-kajjapu/) - Student
 
 ## Table of Contents
 
