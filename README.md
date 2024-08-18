@@ -130,13 +130,9 @@ Follow me here- [![LinkedIn](https://github.com/user-attachments/assets/ab8f3fb3
 - **Chakra UI:** [Website](https://v2.chakra-ui.com/)
 
 ### **Back-end Development**
-- Server-side programming (Node.js, Python, Java)
-- Database integration (SQL, NoSQL)
-- API development and security best practices
+- Will be updating soon!
 
 ### **Design**
-- User experience (UX) and user interface (UI) design
-- Wireframing and prototyping (Figma, Adobe XD)
-- Design principles and user research
+- Will be updating soon!
 
 **Let’s make this a transformative journey!** 🚀
