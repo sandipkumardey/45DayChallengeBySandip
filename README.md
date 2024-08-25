@@ -136,6 +136,9 @@ Follow me here- [![LinkedIn](https://github.com/user-attachments/assets/ab8f3fb3
 - Will be updating soon!
 
 ### **Design**
-- Will be updating soon!
+- **Color Theory Basics:** [Website](https://www.shutterstock.com/blog/complete-guide-color-in-design)
+- **Color Theory 101:** [Website](https://blog.hubspot.com/marketing/color-theory-design)
+- **Design Principles:** [Website](https://www.superside.com/blog/principles-of-design-guide)
+- **Good Design vs Bad Design:** [Website](https://careerfoundry.com/en/blog/ui-design/common-ui-design-mistakes/)
 
 **Let’s make this a transformative journey!** 🚀
