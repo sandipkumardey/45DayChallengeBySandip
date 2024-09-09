@@ -4,6 +4,8 @@ Welcome to the #45DayChallengeBySandip! This exciting challenge is designed to b
 
 ![#45DayChallengeBySandip-2](https://github.com/user-attachments/assets/6ff6201e-0a3a-4f75-9721-9af385033170)
 
+<img width="672" alt="Screenshot 2024-09-09 at 4 15 32 PM" src="https://github.com/user-attachments/assets/d4d533e7-d09d-4102-b1f9-cd27b9fdcf31">
+
 ## Contributors
 
 - [Soumyadip Chowdhury](https://www.linkedin.com/in/soumyadip-chowdhury/) - Sr. Software Engineer @ REDHAT
