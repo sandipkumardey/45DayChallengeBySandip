@@ -102,6 +102,21 @@ Follow me here- [![LinkedIn](https://github.com/user-attachments/assets/ab8f3fb3
 
 **Good Luck and All the Best!** 🙌
 
+## 🥁 Project Ideas
+
+Both options present a wealth of ideas, each accompanied by enough insights to manage the complexities of the topic. 
+We encourage you to select the projects that align with your interests and expertise.
+
+Participants are welcome to choose their projects, provided they are engaging and intriguing. Choosing projects that spark your enthusiasm will significantly increase the likelihood of successful completion.
+
+#### Fullstack Projects
+- [Ideas with different themes and verticals](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file)
+- [List of simple to basic ideas](https://codingchallenges.fyi/challenges/intro/)
+
+#### Design Projects
+- [List of Daily Design challenges](https://www.richmcnabb.com/user-experience-design/100-days-of-design-challenges/)
+- [Designs for Inspiration](https://muz.li/inspiration/mobile-app-design-inspiration)
+
 ## 📚 Resources
 
 ### **Front-end Development**
