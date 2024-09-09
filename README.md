@@ -30,6 +30,7 @@ Welcome to the #45DayChallengeBySandip! This exciting challenge is designed to b
   - [Week 4 & 5](#week-4--5)
   - [Week 6](#week-6)
   - [Hackathon Day](#hackathon-day)
+- [Project Ideas](#-project-ideas)
 - [Resources](#-resources)
   - [Front-end Development](#front-end-development)
   - [Back-end Development](#back-end-development)
