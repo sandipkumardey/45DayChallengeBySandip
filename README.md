@@ -25,7 +25,7 @@ Welcome to the #45DayChallengeBySandip! This exciting challenge is designed to b
 - [Shounak Chatterjee](https://github.com/Shounak-programmer/ABC-Club) - Student, Adamas University
 - [Sujal Kr Sil](https://github.com/Sujalkr-sil/45-days-challenge) - Student, Adamas University
 - [Samyak Karmakar](https://github.com/SamyakKarmakar/-45-Days-Challenge) - Student, Adamas University
-- [Anshu Bhatt](https://github.com/Anshu-bhatt/-45daysChallengeSolution) - Student, Adamas University
+- [Anshu Bhatt](https://github.com/Anshu-bhatt/-45daysChallengeSolution) - Student, Charotar University of science and technology
 - [Mrinal Sahoo](https://github.com/mrinal1014/Backend) - Student, Adamas University
 - [Aditya Yadav](https://github.com/adityayadavms/45_days-Challenge) - Student, Adamas University
 - [Subhangkar Barui](https://github.com/Subhangkar2655/45daychallenge-) - Student, Adamas University
