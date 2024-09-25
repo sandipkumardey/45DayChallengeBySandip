@@ -29,6 +29,13 @@ Welcome to the #45DayChallengeBySandip! This exciting challenge is designed to b
 - [Mrinal Sahoo](https://github.com/mrinal1014/Backend) - Student, Adamas University
 - [Aditya Yadav](https://github.com/adityayadavms/45_days-Challenge) - Student, Adamas University
 - [Subhangkar Barui](https://github.com/Subhangkar2655/45daychallenge-) - Student, Adamas University
+- [Ashwani Kumar](https://github.com/ashwani9931/45_days_solution) - Student, Adamas University
+- [Shrijit Sengupta](https://github.com/Shrijit0105/45DaysChallenge) - Student, Adamas University
+- [Sandip Maity](https://github.com/Sandip-Maity-2023/45DaysChallenge) - Student, Adamas University
+- [Ayantika Ganguly](https://github.com/ayantikaganguly21/Design-Week1) - Student, Adamas University
+- [Shubham Kundu](https://github.com/Subham12556/45daysChallenge) - Student, Adamas University
+- [Prionti Majumder](https://github.com/Prionti123) - Student, Adamas University
+
 
 ## Table of Contents
 
