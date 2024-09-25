@@ -17,6 +17,19 @@ Welcome to the #45DayChallengeBySandip! This exciting challenge is designed to b
 - [Debopam Chowdhury (Param)](https://www.linkedin.com/in/debopam-chowdhury-param-600619229/) - Student
 - [Vinay Kumar Kajjapu](https://www.linkedin.com/in/vinaykumar-kajjapu/) - Student
 
+## Submissions
+
+- [Debadrita Mondal](https://github.com/mondaldebadrita03/45DayChallengeBySandip) - Student, Academy of Technology
+- [Utsa Maiti](https://github.com/UtsaMaiti/45_Days_Challenge) - Student, Adamas University
+- [Iman Sarkar](https://github.com/Imansarkar/-45dayschallengewithsandip_frontenddevlopment) - Student, Adamas University
+- [Shounak Chatterjee](https://github.com/Shounak-programmer/ABC-Club) - Student, Adamas University
+- [Sujal Kr Sil](https://github.com/Sujalkr-sil/45-days-challenge) - Student, Adamas University
+- [Samyak Karmakar](https://github.com/SamyakKarmakar/-45-Days-Challenge) - Student, Adamas University
+- [Anshu Bhatt](https://github.com/Anshu-bhatt/-45daysChallengeSolution) - Student, Adamas University
+- [Mrinal Sahoo](https://github.com/mrinal1014/Backend) - Student, Adamas University
+- [Aditya Yadav](https://github.com/adityayadavms/45_days-Challenge) - Student, Adamas University
+- [Subhangkar Barui](https://github.com/Subhangkar2655/45daychallenge-) - Student, Adamas University
+
 ## Table of Contents
 
 - [Challenge Overview](#-challenge-overview)
