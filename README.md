@@ -5,6 +5,7 @@ Welcome to the #45DayChallengeBySandip! This exciting challenge is designed to b
 ![#45DayChallengeBySandip-2](https://github.com/user-attachments/assets/6ff6201e-0a3a-4f75-9721-9af385033170)
 
 <img width="672" alt="Screenshot 2024-09-09 at 4 15 32 PM" src="https://github.com/user-attachments/assets/d4d533e7-d09d-4102-b1f9-cd27b9fdcf31">
+<img width="673" alt="Screenshot 2024-09-09 at 4 15 45 PM" src="https://github.com/user-attachments/assets/5e4be1a5-ccab-46ab-b99c-7346127510a9">
 
 ## Contributors
 
